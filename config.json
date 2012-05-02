@@ -1,0 +1,17 @@
+{
+    "name": "PlanIterationsAndReleases",
+    "className": "PlanIterationsAndReleases.App",
+    "sdk": "2.0p",
+    "javascript": [
+		"TreeItem.js",
+        "Tree.js",
+		"IterationTreeItem.js",
+		"StoryTreeItem.js",
+        "StoryTree.js",
+        "IterationsAndReleases.js",
+        "App.js"
+    ],
+    "css": [
+        "app.css"
+    ]
+}
